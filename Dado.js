@@ -38,7 +38,7 @@ class Dado{
 
     // simula o rolar do dado quantas vezes necessárias
     // Param: int vezes
-    // Return: Array;
+    //return int ou Array;
     Rolar(vezes = 1) {
 
         if (vezes == 1) {
